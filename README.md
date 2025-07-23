@@ -13,7 +13,7 @@ To create a tamper-proof, easily accessible, and trustless academic record manag
 - **Simple Interface**: Minimal and efficient smart contract functions.
 - **Access Transparency**: Records can be transparently verified on-chain.
 hh
-## Future Scope
+## Future Scope there no scope
 
 - **Role-Based Access Control**: Introduce permissions for schools/admins.
 - **Transcript Aggregation**: Support multiple subjects and terms per student.
