@@ -12,7 +12,7 @@ To create a tamper-proof, easily accessible, and trustless academic record manag
 - **CRUD Operations**: Admins can create, read, update, and delete student report cards.
 - **Simple Interface**: Minimal and efficient smart contract functions.
 - **Access Transparency**: Records can be transparently verified on-chain.
-hhhhhh
+hhhhhhjh
 ## Future Scope there no scope
 
 - **Role-Based Access Control**: Introduce permissions for schools/admins.
