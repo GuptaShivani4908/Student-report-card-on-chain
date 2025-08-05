@@ -14,7 +14,7 @@ To create a tamper-proof, easily accessible, and trustless academic record manag
 - **Access Transparency**: Records can be transparently verified on-chain.
 ## Future Scope there no scope there is new future
 - **Role-Based Access Control**: Introduce permissions for schools/admins.
-- **Transcript Aggregation**: Support multiple subjects and terms per student.
+- **Transcript Aggregation**: Support multiple subjecthhhs and terms per student.
 - **NFT Issuance**: Link report cards to NFTs for proof of achievement.
 - **Analytics**: On-chain insights for academic performance trends.
 - **Decentralized Frontend**: UI integration using Stellar's Soroban frontend tools.
