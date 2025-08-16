@@ -21,4 +21,4 @@ To create a tamper-proof, easily accessible, and trustless academic record manag
 ## Contract Details
 CBAYVLXLKX7PAISZXYSZ3PGDJ2RBSPHCUT7ACTWEQUN3GZIYYR7UVLVL
 ![alt text](image.png)
-fault by
+fault by ur
