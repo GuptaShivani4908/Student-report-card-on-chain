@@ -1,4 +1,4 @@
-# Student Report Card on Chain
+u# Student Report Card on Chain
 
 ## Project Description
 A decentralized system for storing and managing student report cards on the blockchain using Soroban smart contracts. The project ensures transparency, security, and immutability in academic record-keeping.
@@ -13,7 +13,7 @@ To create a tamper-proof, easily accessible, and trustless academic record manag
 - **Simple Interface**: Minimal and efficient smart contract functions.
 - **Access Transparency**: Records can be transparently verified on-chain. 
 ## Future Scope there no scope there is njhew future
-- **Role-Based Access Control**: Introduce permissions for schools/admins.
+- **Role-Based Access Control**: Introduce permiskksions for schools/admins.
 - **Transcript Aggregation**: Support multiple subjecthhhs and terms per student.
 - **NFT Issuance**: Link report cards to NFTs for proof of achievement.
 - **Analytics**: On-chain insights for academic performance trends.
