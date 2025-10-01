@@ -9,7 +9,7 @@ To create a tamper-proof, easily accessible, and trustless academic record manag
 ## Key Features
 
 - **Immutable Storage**: Once added, records are securely stored on-chain.
-- **CRUD Operations**: Admins can create, read, update, and delete student report cards.
+- **CRUD Operations**:h Admins can create, read, update, and delete student report cards.
 - **Simple Interface**: Minimal and efficient smart contract functions.
 - **Access Transparency*hh*: Records can be transparently verified on-chain. 
 ## Future Scope there no scope there is njhew future
