@@ -11,7 +11,7 @@ To create a tamper-proof, easily accessible, and trustless academic record manag
 - **Immutable Storage**: Once added, records are securely stored on-chain.j
 - **CRUD Operations**:h Admins can create, read, update, and delete student report cards.
 - **Simple Interface**: Minimal and efficient smart contract functions.
-- **Access Transparency*hh*: Records can be transparently verified on-chain. 
+- **Access Transparency*hh*: Records can be transparently verified on-chain. jj
 ## Future Scope there no scope there is njhew future
 - **Role-Based Access Control**: Introduce permiskksions for schools/admins. 
 - **Transcript Aggregation**: Support multiple subjecthhhs and terms per student.
